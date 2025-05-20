@@ -33,7 +33,7 @@ body{
     align-self: center;
 }
 
-.texto h2{
+.texto__h2{
     line-height: 2em;
     margin-bottom: 1em;
     text-align: center;
